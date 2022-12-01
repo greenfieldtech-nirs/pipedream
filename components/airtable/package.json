@@ -15,7 +15,7 @@
         "access": "public"
     },
     "dependencies": {
-        "airtable": "^0.11.1",
+        "airtable": "^0.11.6",
         "axios": "^0.21.1",
         "bottleneck": "^2.19.5",
         "lodash.chunk": "^4.2.0",
