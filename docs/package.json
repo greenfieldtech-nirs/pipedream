@@ -17,7 +17,7 @@
     "build:css": "NODE_ENV=production tailwindcss -o src/tailwind.css -m"
   },
   "dependencies": {
-    "autoprefixer": "^9.0.0",
+    "autoprefixer": "^10.0.0",
     "postcss": "^8.4.31",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "vue-gtm": "^3.5.0",
