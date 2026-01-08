@@ -16,9 +16,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@pipedream/platform": "^1.5.1",
+    "@pipedream/platform": "^1.6.0",
     "@pipedream/types": "^0.1.4",
-    "form-data": "^4.0.0",
+    "form-data": "^4.0.4",
     "oauth-1.0a": "^2.2.6"
   }
 }
